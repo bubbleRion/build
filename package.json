@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/bubbleRion/build/issues"
   },
-  "homepage": "https://github.com/bubbleRion/build#readme"
+  "homepage": "https://github.com/bubbleRion/build#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
 }
